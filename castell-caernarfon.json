@@ -4,12 +4,9 @@
     "lat": 53.1393,
     "long": -4.2769
   },
-  "start": 1280,
-  "end": 1300,
-  "categoryId": "castell",
-  "backgroundColor": "grey",
-  "fontColor": "#fff",
-  "weight": 0.8,
+  "includeMainMenu": false,
+  "date": 1280,
+  "categoryId": "lleoedd",
   "id": "castell-caernarfon",
   "label": "Caernarfon Castle"
 }
