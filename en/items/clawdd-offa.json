@@ -1,0 +1,20 @@
+{
+  "descriptionWiki": "Offa\u0027s Dyke (Welsh: Clawdd Offa) is a large linear earthwork that roughly follows the border between England and Wales. The structure is named after Offa, the Anglo-Saxon king of Mercia from 757 to 796, who is traditionally believed to have ordered its construction, although modern archaeological evidence shows far earlier origins and its original purpose is debated.\nIt delineated the border between Anglian Mercia and the Welsh kingdoms (such as Powys) by the time of its completion, but when begun (carbon-dated to 430AD) it separated the Brytons of the Decangi, Cornovi and Dobunni from the Western Ordovices, Demetae and Silures.\nThe earthwork, which was up to 65 feet (20 m) wide (including its flanking ditch) and 8 feet (2.4 m) high, traversed low ground, hills and rivers. Today, it is protected as a scheduled monument. Some of its route is followed by the Offa\u0027s Dyke Path, a 177-mile (285 km) long-distance footpath that runs between Liverpool Bay in the north and the Severn Estuary in the south.\nAlthough the dyke has conventionally been dated to the Early Middle Ages of Anglo-Saxon England, research in recent decades\u2014using techniques such as radioactive carbon dating\u2014has challenged the conventional historiography and theories about the earthwork and showed that construction was started in the early 5th century, during the sub-Roman period.",
+  "location": {
+    "lat": 52.344,
+    "long": -3.049
+  },
+  "imageNames": [
+    "Mercian Supremacy x 4 alt.png",
+    "Offa\u0027s Dyke Centre 2008.jpg",
+    "Offa\u0027s Dyke near Clun.jpg",
+    "Offa\u0027s Dyke near Yew Tree Farm - geograph.org.uk - 450420.jpg",
+    "Wat\u0027s dyke.png"
+  ],
+  "includeMainMenu": true,
+  "start": 757,
+  "end": 796,
+  "categoryId": "lleoedd",
+  "id": "clawdd-offa",
+  "label": "Offa\u0027s Dyke"
+}

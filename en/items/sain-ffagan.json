@@ -1,0 +1,19 @@
+{
+  "descriptionWiki": "St Fagans National Museum of History ( FAG-\u0259nz; Welsh: Sain Ffagan: Amgueddfa Werin Cymru), commonly referred to as St Fagans after the village where it is located, is an open-air museum in St Fagans, Cardiff, Wales, chronicling the historical lifestyle, culture, and architecture of the Welsh people. The museum is part of the wider network of Amgueddfa Cymru \u2013 Museum Wales.\nIt consists of more than forty re-erected buildings from various locations in Wales, and is set in the grounds of St Fagans Castle, a Grade I listed Elizabethan manor house. In 2011 Which? magazine named the museum the United Kingdom\u0027s favourite visitor attraction.\nA six-year, \u00A330-million revamp was completed in 2018 and the museum was named the Art Fund Museum of the Year in 2019.",
+  "location": {
+    "lat": 51.4869,
+    "long": -3.2725
+  },
+  "imageNames": [
+    "Abernodwydd Farmhouse, St Fagans Museum of Welsh Life.jpg",
+    "Anderson shelter at St Fagans.jpg",
+    "Barn, National History Museum of Wales.jpg",
+    "Boat-house and Net-house, National History Museum, St Fagans 1458922 geograph.org.uk.jpg",
+    "Bryn Eryr Farmstead, St Fagans National History Museum (geograph 5111620).jpg"
+  ],
+  "includeMainMenu": false,
+  "date": 1948,
+  "categoryId": "lleoedd",
+  "id": "sain-ffagan",
+  "label": "St Fagans"
+}

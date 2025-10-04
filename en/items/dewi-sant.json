@@ -1,0 +1,15 @@
+{
+  "descriptionWiki": "David (Welsh: Dewi Sant; Latin: Davidus; c. 500 \u2013 c. 589) was a Welsh Christian prelate who served as Bishop of Mynyw during the 6th century. He is the patron saint of Wales.\nDavid was a native of Wales, and tradition has preserved a large amount of detail about his life. His birth date, however, is uncertain: suggestions range from 462 to 512. He is traditionally believed to be the son of Non and the grandson of Ceredig ap Cunedda, king of Ceredigion. The Welsh annals placed his death 569 years after the birth of Christ, but Phillimore\u0027s dating revised this to 601.",
+  "imageNames": [
+    "046CupolaSPietro.jpg",
+    "Bae non - Chapel of Our Lady and St Non S of Tyddewi (St David\u0027s), Sir Benfro, Wales 10.jpg",
+    "Castell Coch stained glass panel 2.JPG",
+    "Clonard RC Church St Finian 02 Detail 2007 08 26.jpg"
+  ],
+  "includeMainMenu": true,
+  "start": 500,
+  "end": 589,
+  "categoryId": "crefydd",
+  "id": "dewi-sant",
+  "label": "Saint David"
+}

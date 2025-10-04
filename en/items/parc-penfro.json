@@ -1,0 +1,18 @@
+{
+  "descriptionWiki": "Pembrokeshire Coast National Park (Welsh: Parc Cenedlaethol Arfordir Penfro) is a national park along the Pembrokeshire coast in west Wales.\nIt was established as a National Park in 1952. It is one of the three National parks of Wales, the others being the Brecon Beacons (Bannau Brycheiniog) and Snowdonia (Eryri). It is the only national park in the United Kingdom to consist largely of coastal landscapes.",
+  "location": {
+    "lat": 51.83333333,
+    "long": -5.08333333
+  },
+  "imageNames": [
+    "Barafundle Bay beach (May 2009).jpg",
+    "Green Bridge of Wales 1 - Pembrokeshire (2010).jpg",
+    "Pentre Ifan burial chamber - geograph.org.uk - 384085.jpg",
+    "St Govans\u0027 chapel - geograph.org.uk - 876068.jpg"
+  ],
+  "includeMainMenu": false,
+  "date": 1952,
+  "categoryId": "lleoedd",
+  "id": "parc-penfro",
+  "label": "Pembrokeshire"
+}
